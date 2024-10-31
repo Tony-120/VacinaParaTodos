@@ -1,2 +1,2 @@
-Projeto desenvolvido pela na universidade São Judas  tadeu  , para  criar uma fila de vacinação em dar prioridade de acordo com a idade  Covid 19.
-Esse projeto faz um crud  gerando uma tela de usuário onde o mesmo  faz o seu cadastro  o sistema retorna de acordo com idade o seu nivel de prioridade.
+Projeto  foi desenvolvido na universidade São Judas tadeu , para criar um sistema de vacinação para covid 19 onde temos uma tela de login que usuário faz o cadastro e mesmo informa o seu grau de prioridade . Esse projeto faz um Crud.
+Gerando uma tela de usuário onde o mesmo faz o seu cadastro o  e sistema retorna de acordo com idade o seu nivel de prioridade  e amazenando as informações no banco de dados local host.

@@ -61,7 +61,19 @@ jobs:
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
     defaults:
       run:
-        shell: bash
+        shell: bash 
+
+
+        1. Crie um arquivo main.tf na raiz do projeto:
+
+terraform {
+  required_version = ">= 1.0"
+}
+
+provider "aws" {
+  region = "us-east-1"
+}
+
 
     steps:
     # Checkout the repository to the GitHub Actions runner

@@ -63,18 +63,6 @@ jobs:
       run:
         shell: bash 
 
-
-        1. Crie um arquivo main.tf na raiz do projeto:
-
-terraform {
-  required_version = ">= 1.0"
-}
-
-provider "aws" {
-  region = "us-east-1"
-}
-
-
     steps:
     # Checkout the repository to the GitHub Actions runner
     - name: Checkout

@@ -1,2 +1,2 @@
-Projeto  foi desenvolvido na universidade São Judas tadeu , para criar um sistema de vacinação para covid 19 onde temos uma tela de login que usuário faz o cadastro e mesmo informa o seu grau de prioridade . Esse projeto faz um Crud.
+Projeto  foi desenvolvido na universidade São Judas tadeu , para criar um sistema de vacinação para covid 19 onde temos uma tela de login que usuário faz o cadastro e o mesmo informa o seu grau de prioridade de acordo com sua idade  . Esse projeto é crud em Java  e foi elaborado para ajudar a combater a Covid-19.
 Gerando uma tela de usuário onde o mesmo faz o seu cadastro o  e sistema retorna de acordo com idade o seu nivel de prioridade  e amazenando as informações no banco de dados local host.
